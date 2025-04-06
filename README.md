@@ -26,7 +26,7 @@ make a separate model of fav for better code maintainability and readability.
 make a get api call to fetch the item and show on fav screen using bloc state management
 
 => how to delete fav
-in fav model pass id as index and make a delete request to delete an item form fav with proper use of token
+in fav model pass id and make a delete request to delete an item form fav with proper use of token
 
 
 Technology used
